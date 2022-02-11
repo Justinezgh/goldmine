@@ -18,5 +18,5 @@ setup(
         "License :: OSI Approved :: GNU License",
         "Operating System :: OS Independent",
     ],
-    python_requires="=3.6.4",
+    python_requires="==3.6.4",
 )
